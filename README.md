@@ -25,9 +25,9 @@ I create character rigs for animation production, with experience at **TAT Produ
 
 ### 🔬 Currently Building — weSkel
 
-**weSkel** is my modular rigging framework for Maya, currently in active development.
+**weSkel** is my modular rigging framework for Maya, currently in active development. Built around **Python and Maya API 2.0**, it brings together reusable rig modules, rigging tools and dedicated user interfaces for building and managing character rigs.
 
-Its **Pushers** tool is a quaternion RBF pose driver for corrective rigging. Built with Maya API 2.0, it evaluates through native Maya math and matrix nodes, with reusable presets and a dedicated user interface.
+The framework spans multiple tools and workflows, including **weSkel Pushers**, a quaternion RBF pose driver for corrective rigging.
 
 ---
 
