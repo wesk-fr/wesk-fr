@@ -1,13 +1,43 @@
-# Mathieu SCHMIT — CG-WESK
+# Mathieu SCHMIT · CG-WESK
 
-**Senior Maya Rigger / Rigging TD**
+### Senior Maya Rigger / Rigging TD
 
-I build character rigs and rigging tools for animation production, with experience at TAT Productions, KARLAB and Dwarf Animation.
+I create character rigs for animation production, with experience at **TAT Productions, KARLAB and Dwarf Animation**. My work combines body and facial rigging, deformation systems, and rigging tool development with **Python and OpenMaya 2**.
 
-My work focuses on body and facial rigging, deformation systems, and modular workflows using Python and Maya API 2.0.
+---
 
-## Currently developing: weSkel
+### 🦾 What I Do
 
-A modular rigging framework for Maya built around OpenMaya 2. Current work includes **weSkel Pushers**, a quaternion RBF pose driver for corrective rigging, evaluated through native Maya nodes.
+- **Character Rigging:** Body and facial systems for characters, creatures and complex props.
+- **Deformation Workflows:** Corrective setups, pose-driven systems and deformation tools.
+- **Rigging Tools:** Tools for building, validating and maintaining rigs in Maya.
+- **Modular Systems:** Reusable rig architectures and artist-friendly interfaces for production.
 
-[Technical breakdown reel](https://www.youtube.com/watch?v=iRxxBi4t5BM) · [Production reel](https://www.youtube.com/watch?v=zNLRcnxrjhs) · [LinkedIn](https://www.linkedin.com/in/mathieu-schmit-rigging/)
+---
+
+### 🛠️ Tools & Technologies
+
+- **Core:** Autodesk Maya, Python, Maya API 2.0 / OpenMaya 2.
+- **Rig Systems:** Matrix-based setups, native Maya DG nodes, quaternion RBF.
+- **Development Focus:** Modular architecture, validation tools and reusable workflows.
+
+---
+
+### 🔬 Currently Building — weSkel
+
+**weSkel** is my modular rigging framework for Maya, currently in active development.
+
+Its **Pushers** tool is a quaternion RBF pose driver for corrective rigging. Built with Maya API 2.0, it evaluates through native Maya math and matrix nodes, with reusable presets and a dedicated user interface.
+
+---
+
+### 🎬 Demo Reels
+
+- [**Technical Breakdown**](https://www.youtube.com/watch?v=iRxxBi4t5BM) — Body and facial rigging, deformation systems and modular workflows.
+- [**Production Reel**](https://www.youtube.com/watch?v=zNLRcnxrjhs) — Final animation shots from *Les Aventures de Pil* at TAT Productions.
+
+---
+
+### 📫 Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/mathieu-schmit-rigging/) · [All links](https://bit.ly/m/CGWESK)
